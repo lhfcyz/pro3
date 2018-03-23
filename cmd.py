@@ -41,7 +41,7 @@ The data members `self.doc_header', `self.misc_header', and
 listings of documented functions, miscellaneous topics, and undocumented
 functions respectively.
 """
-#很好
+#很好jdjdjdjdjdjdjdjj
 import string, sys
 
 __all__ = ["Cmd"]
