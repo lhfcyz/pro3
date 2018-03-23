@@ -6,7 +6,7 @@ Written by Marc-Andre Lemburg (mal@lemburg.com).
 (c) Copyright CNRI, All Rights Reserved. NO WARRANTY.
 
 """#"
-
+#kdjkajdkjdkajk
 import builtins, sys
 
 ### Registry and builtin stateless codec functions
@@ -32,7 +32,7 @@ __all__ = ["register", "lookup", "open", "EncodedFile", "BOM", "BOM_BE",
            "register_error", "lookup_error"]
 
 ### Constants
-
+#kdkdkdkdk
 #
 # Byte Order Mark (BOM = ZERO WIDTH NO-BREAK SPACE = U+FEFF)
 # and its possible byte string values
