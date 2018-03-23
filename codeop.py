@@ -55,7 +55,7 @@ Compile():
     Instances of this class act like the built-in function compile,
     but with 'memory' in the sense described above.
 """
-
+#jjuudjdjdhfhajd
 import __future__
 
 _features = [getattr(__future__, fname)
