@@ -37,7 +37,7 @@ __all__ = ["register", "lookup", "open", "EncodedFile", "BOM", "BOM_BE",
 # Byte Order Mark (BOM = ZERO WIDTH NO-BREAK SPACE = U+FEFF)
 # and its possible byte string values
 # for UTF8/UTF16/UTF32 output and little/big endian machines
-#
+#ddddddddddd
 
 # UTF-8
 BOM_UTF8 = b'\xef\xbb\xbf'
